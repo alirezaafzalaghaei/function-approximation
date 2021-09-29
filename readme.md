@@ -6,13 +6,13 @@ Each function can be learned with a different neural network, so we've split the
 
 ## Repository examples
 
- - [x] $f(x): \mathbb{R}\to\mathbb{R}$
- - [ ] $f(x): \mathbb{R}^n\to\mathbb{R}$
- - [ ] $f(x): \mathbb{R}\to\mathbb{R}^n$
- - [ ] $f(x): \mathbb{R}^n\to\mathbb{R}^m$
- - [ ] $f(x): \mathbb{C}\to\mathbb{R}$
- - [ ] $f(x): \mathbb{R}\to\mathbb{C}$
- - [ ] $f(x): \mathbb{R}\to\mathbb{R}$ + Prior knowledge: `the target function is a sine wave`
+ - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}">
+ - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}^n\to\mathbb{R}">
+ - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}^n">
+ - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}^n\to\mathbb{R}^m">
+ - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{C}\to\mathbb{R}">
+ - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{C}">
+ - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}"> + Prior knowledge: `the target function is a sine wave`
 
 *Currently, only the first example is provided. Other examples will be added as soon as possible.
 

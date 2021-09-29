@@ -1,6 +1,6 @@
 # Example 1
 
-In this example, the network should learn a simple polynomial on the interval $[-2, 3]$:
+In this example, the network should learn a simple polynomial on the interval [-2, 3]:
 
 ```
 def f(x):
