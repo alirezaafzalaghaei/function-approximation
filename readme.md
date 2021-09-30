@@ -6,13 +6,13 @@ Each function can be learned with a different neural network, so we've split the
 
 ## Repository examples
 
- - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}">
- - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}^n\to\mathbb{R}">
- - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}^n">
- - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}^n\to\mathbb{R}^m">
+ - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}"> (Example-1)
+ - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}^n\to\mathbb{R}"> (Example-2)
+ - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}^m"> (Example-3)
+ - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}^n\to\mathbb{R}^m"> (Example-4)
  - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{C}\to\mathbb{R}">
  - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{C}">
- - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}"> + Prior knowledge: `the target function is a sine wave`
+ - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}"> + Prior knowledge: `the target function is a sine wave` (Example-1: Polynomial function)
 
 *Currently, only the first example is provided. Other examples will be added as soon as possible.
 
@@ -21,7 +21,7 @@ Each function can be learned with a different neural network, so we've split the
  - [x] Dense (MLP)
  - [x] CNN
  - [x] LSTM
- - [x] GRU
+ - [ ] GRU
 
 ## What's next?
 
