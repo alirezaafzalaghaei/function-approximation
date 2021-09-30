@@ -14,8 +14,6 @@ Each function can be learned with a different neural network, so we've split the
  - [ ] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{C}">
  - [x] <img src="https://render.githubusercontent.com/render/math?math=f(x): \mathbb{R}\to\mathbb{R}"> + Prior knowledge: `the target function is a sine wave` (Example-1: Polynomial function)
 
-*Currently, only the first example is provided. Other examples will be added as soon as possible.
-
 ## Architectures
 
  - [x] Dense (MLP)
